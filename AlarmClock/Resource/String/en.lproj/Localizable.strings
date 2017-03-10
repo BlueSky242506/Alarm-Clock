@@ -1,0 +1,188 @@
+/*
+   Localizable.strings
+   SportingApp
+
+   Created by System Administrator on 3/05/12.   Copyright 2012 __MyCompanyName__. All rights reserved.
+*/
+
+"Sleep Safe" = "Sleep Safe";
+
+"Alarms" = "Alarms";
+
+"Alarm Settings" = "Alarm Settings";
+
+"Light Sleep Cycle Alarm" = "Light Sleep Cycle Alarm";
+
+"Light Sleep Cycle Alarm Description" = "The alarm gradually increases from a very low volume over your selected Wake Up Window so you only awaken when you are in a light sleep cycle.";
+
+"Light Sleep Cycle Alarm Time Description" = "Set the time you want your alarm to begin. Your alarm volume will gradually increase for the duration of your nominated Wake Up Window";
+
+"Time" = "Time";
+
+"Sound & Music" = "Sound & Music";
+
+"Wake Up Window" = "Wake Up Window";
+
+"Back Up Alarm" = "Back Up Alarm";
+
+"Back Up Alarm Description" = "This alarm is used as a back up in case you do not wake during your Light Sleep Cycle Alarm. You can also use this as a normal alarm clock by simply turing off the Light Sleep Cycle Alarm.";
+
+"Repeat" = "Repeat";
+
+"Snooze" = "Snooze";
+
+"%d minutes" = "%d minutes";
+
+"Alarm Label" = "Alarm Label";
+
+"Alarm Time" = "Alarm Time";
+
+"Light Sleep Cycle Alarm Time Description" = "Set the time you want your alarm to begin. Your alarm volume will gradually increase for the duration of your nominated Wake Up Window.";
+
+"Back Up Alarm Time Description" = "Set the time for your back up alarm";
+
+"Every Sunday" = "Every Sunday";
+
+"Every Monday" = "Every Monday";
+
+"Every Tuesday" = "Every Tuesday";
+
+"Every Wednesday" = "Every Wednesday";
+
+"Every Thursday" = "Every Thursday";
+
+"Every Friday" = "Every Friday";
+
+"Every Saturday" = "Every Saturday";
+
+"Never" = "Never";
+
+"Repeat Alarm" = "Repeat Alarm";
+
+"Sounds" = "Sounds";
+
+"Music" = "Music";
+
+"Play iPod Music" = "Play iPod Music";
+
+"iPod Songs" = "iPod Songs";
+
+"Add iPod Songs" = "Add iPod Songs";
+
+"iPod Music" = "iPod Music";
+
+"Music playlist" = "Music playlist";
+
+"Sleep Assist" = "Sleep Assist";
+
+"Sleep Assist Description" = "Insomnia affects 9 in 10 people. Sleep Assist sets medically proven tones to reduce anxiety, blah blah blah";
+
+"Duration" = "Duration";
+
+"Volume" = "Volume";
+
+"Reduce during duration" = "Reduce during duration";
+
+"Sleep Tracker" = "Sleep Tracker";
+
+"Last Night's Sleep" = "Last Night's Sleep";
+
+"Sleep History" = "Sleep History";
+
+"In bed" = "In bed";
+
+"Awake" = "Awake";
+
+"Time Sleeping" = "Time Sleeping";
+
+"Date Range" = "Date Range";
+
+"Total sleeping time" = "Total sleeping time";
+
+"Average time sleeping" = "Average time sleeping";
+
+"Shortest night sleep" = "Shortest night sleep";
+
+"Longest night sleep" = "Longest night sleep";
+
+"Date Range" = "Date Range";
+
+"Morning Rise" = "Morning Rise";
+
+"When Alarm is Set" = "When Alarm is Set";
+
+"Setting" = "Setting";
+
+"Clock Style & Display" = "Clock Style & Display";
+
+"Weather" = "Weather";
+
+"Flashlight" = "Flashlight";
+
+"Auto Lock" = "Auto Lock";
+
+"More Info" = "More Info";
+
+"Upgrade to Full Version" = "Upgrade to Full Version";
+
+"Rate App" = "Rate App";
+
+"Email Support" = "Email Support";
+
+"Clock & Display" = "Clock & Display";
+
+"LCD" = "LCD";
+
+"Flip" = "Flip";
+
+"LCD Colour" = "LCD Colour";
+
+"Show Seconds" = "Show Seconds";
+
+"Show Date" = "Show Date";
+
+"Show Weather" = "Show Weather";
+
+"Show Next Alarm" = "Show Next Alarm";
+
+"Time Format" = "Time Format";
+
+"Brightness" = "Brightness";
+
+"Slider Finger" = "Slider Finger";
+
+"Set Location" = "Set Location";
+
+"Measurements" = "Measurements";
+
+"Temperature" = "Temperature";
+
+"Wind Speed" = "Wind Speed";
+
+"Flashlight" = "Flashlight";
+
+"Activate Flashlight" = "Activate Flashlight";
+
+"Double Tap" = "Double Tap";
+
+"Auto Lock" = "Auto Lock";
+
+"When on Battery Power" = "When on Battery Power";
+
+"When Charger Plugged in" = "When Charger Plugged in";
+
+"Blue LCD" = "Blue LCD";
+
+"Cyan LCD" = "Cyan LCD";
+
+"Green LCD" = "Green LCD";
+
+"Orange LCD" = "Orange LCD";
+
+"Pink LCD" = "Pink LCD";
+
+"Red LCD" = "Red LCD";
+
+"Yellow LCD" = "Yellow LCD";
+
+"More App" = "More App";
